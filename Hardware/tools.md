@@ -17,3 +17,4 @@
 12. Firmware emulation framework - [link](https://github.com/therealsaumil/emux)
 13. Adding Bus Pirate/..-style debugging & probing features to regular MCU boards such as the Raspberry Pi Pico - [link](https://git.lain.faith/sys64738/DragonProbe)
 14. Voltage glitching pcb (RP2040) - [link](https://git.lain.faith/sys64738/dragonzap)
+15. Disk diagnostics program. - [link] (https://hdd.by/victoria/)
